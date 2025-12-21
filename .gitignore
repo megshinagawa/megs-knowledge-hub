@@ -1,0 +1,29 @@
+# Obsidian workspace and cache files (contains personal settings, recent files, etc.)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Plugin configurations that might contain API keys or personal settings
+.obsidian/plugins/*/data.json
+
+# Trash folder
+.trash/
+
+# Private notes folder (create this to keep private content)
+Private/
+_private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Any files with sensitive patterns
+*secret*
+*password*
+*api-key*
+*token*
+*.env
