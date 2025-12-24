@@ -1,3 +1,8 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "attachmentFolderPath": "99_attachments",
+  "promptDelete": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
 }

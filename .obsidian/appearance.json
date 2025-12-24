@@ -1,6 +1,8 @@
 {
   "cssTheme": "Minimal",
-  "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "textFontFamily": "Hiragino Sans",
+  "interfaceFontFamily": "Hiragino Sans",
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": "#9270f0",
+  "theme": "obsidian"
 }
