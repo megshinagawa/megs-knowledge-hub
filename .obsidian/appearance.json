@@ -4,5 +4,8 @@
   "interfaceFontFamily": "Hiragino Sans",
   "monospaceFontFamily": "JetBrains Mono",
   "accentColor": "#9270f0",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "mermaid_customization"
+  ]
 }

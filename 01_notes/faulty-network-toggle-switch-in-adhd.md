@@ -1,6 +1,10 @@
+---
+datecreated: 2025-12-24
+tags:
+  - ADHD
+  - psychology
+---
 # FAULTY NETWORK TOGGLE SWITCH IN ADHD
-
-#ADHD #psychology 
 
 For neurotypical people, the brain toggles between the default mode network (DMN) and the task positive network (TPN). But in ADHD brains, the toggle switch between the two is faulty. This means that both the DMN and the TPN are constantly competing with each other for control. 
 

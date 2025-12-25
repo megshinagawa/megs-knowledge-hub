@@ -8,7 +8,7 @@ This project is mainly for my *own* sanity because my ADHD brain forgets where I
 
 ## Structure
 
-- `00_inbox`: scraps and ideas (to be refined)
-- `01_notes`: atomic notes on learnings
+- `00_dailies`: notepad to capture everything
+- `01_notes`: refined notes on learnings
 - `02_resources`: reference materials
 - `03_output`: things written by [@megshinagawa](https://github.com/megshinagawa)
