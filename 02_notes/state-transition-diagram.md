@@ -1,8 +1,8 @@
 ---
 datecreated: 2025-12-25
-tags:
-  - dev
-  - business
+topicaltags:
+  - "[[04_tags/dev|dev]]"
+  - "[[04_tags/business|business]]"
 ---
 # STATE TRANSITION DIAGRAM
 

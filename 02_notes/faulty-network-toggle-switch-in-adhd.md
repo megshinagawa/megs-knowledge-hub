@@ -1,8 +1,8 @@
 ---
 datecreated: 2025-12-24
-tags:
-  - ADHD
-  - psychology
+topicaltags:
+  - "[[04_tags/adhd|adhd]]"
+  - "[[04_tags/psychology|psychology]]"
 ---
 # FAULTY NETWORK TOGGLE SWITCH IN ADHD
 

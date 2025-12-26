@@ -1,11 +1,12 @@
 ---
 datecreated: 2025-12-25
-tags:
-  - dev
+topicaltags:
+  - "[[04_tags/dev|dev]]"
+  - "[[04_tags/diagrams|diagrams]]"
 ---
 # CROW'S FOOT NOTATION
 
-Visual language used to illustrate the numerical relationship between two entities in an [[01_notes/entity-relationship-diagram|Entity Relationship Diagram]]. This notation denotes two things: cardinality and modality. 
+Visual language used to illustrate the numerical relationship between two entities in an [[02_notes/entity-relationship-diagram|Entity Relationship Diagram]]. This notation denotes two things: cardinality and modality. 
 
 ## Cardinality vs Modality
 

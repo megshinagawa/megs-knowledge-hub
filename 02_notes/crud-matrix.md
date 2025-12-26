@@ -1,8 +1,8 @@
 ---
 datecreated: 2025-12-25T09:40:00
-tags:
-  - business
-  - dev
+topicaltags:
+  - "[[04_tags/business|business]]"
+  - "[[04_tags/dev|dev]]"
 ---
 # CRUD MATRIX
 

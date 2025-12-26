@@ -1,8 +1,9 @@
 ---
 datecreated: 2025-12-24
-tags:
-  - business
-  - dev
+topicaltags:
+  - "[[04_tags/business|business]]"
+  - "[[04_tags/dev|dev]]"
+  - "[[04_tags/diagrams]]"
 ---
 # BUSINESS PROCESS FLOWCHART
 

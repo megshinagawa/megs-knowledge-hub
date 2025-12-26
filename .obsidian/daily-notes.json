@@ -1,5 +1,5 @@
 {
-  "folder": "00_dailies",
-  "format": "YYYYMMDD",
+  "folder": "01_dailies",
+  "format": "YYYY/MM/YYYYMMDD",
   "template": "98_templates/daily_template"
 }

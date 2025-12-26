@@ -1,8 +1,8 @@
 ---
 datecreated: 2025-12-24
-tags:
-  - business
-  - dev
+topicaltags:
+  - "[[04_tags/business|business]]"
+  - "[[04_tags/dev|dev]]"
 ---
 # ENTITY RELATIONSHIP DIAGRAM
 
@@ -37,7 +37,7 @@ Entity Relationship diagrams, also known as ER diagrams, are specialized flowcha
 	- Recursive Relationship: If an entity relates to itself, the line loops back to the same entity
 - Cardinality: Specifies how many instances of one entity are associated with another
 	- Numerical (Chen Notation):Placing "1" and "N" or "M" next to entities to show relationships like 1:N (one to many)
-	- [[crows-foot-notation|Crow's Foot Notation]]: A visual style where a three-pronged "crow's foot" at the end of a line indicates "many"
+	- [[02_notes/crows-foot-notation|Crow's Foot Notation]]: A visual style where a three-pronged "crow's foot" at the end of a line indicates "many"
 
 ## How to Draw an ER Diagram
 
