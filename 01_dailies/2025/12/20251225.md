@@ -3,6 +3,6 @@
 ## Created Today
 ```dataview
 LIST
-FROM "01_notes"
+FROM "02_notes"
 WHERE dateformat(datecreated, "yyyyMMdd") = this.file.name
 ```
